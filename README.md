@@ -52,6 +52,8 @@ Acredito que aprender vai além de escrever código: envolve investigar, experim
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Samuel-Penaquioni&layout=compact&langs_count=8&theme=midnight-purple" alt="Linguagens mais utilizadas por Samuel" />
 </div>
 
+### Meus commits
+
 ![Snake Animation](https://github.com/Samuel-Penaquioni/Samuel-Penaquioni/raw/output/snake.svg)
 
 ## 🎯 Atualmente
